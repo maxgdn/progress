@@ -11,3 +11,6 @@ pip install -r requirements.txt
 ```bash
 python3 main.py
 ```
+
+
+![progress](progress_sample_image.png)
